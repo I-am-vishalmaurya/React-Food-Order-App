@@ -8,6 +8,10 @@ It is simple react based food ordering app. The main focus is currently on the f
 
 Here are some screenshot of the app.
 
+![image](https://github.com/I-am-vishalmaurya/React-Food-Order-App/blob/master/public/images/Screenshot%202021-09-15%20202950.png)
+
+![image](https://github.com/I-am-vishalmaurya/React-Food-Order-App/blob/master/public/images/Screenshot%202021-09-15%20203043.png)
+
 #### To run this app on your local machine follow this steps
 
 1. Clone the Repostory
